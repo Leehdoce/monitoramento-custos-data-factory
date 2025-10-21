@@ -40,7 +40,7 @@ O dashboard apresentaria:
 - Alertas de orçamento e consumo  
 
 📸 Exemplo ilustrativo:  
-![Dashboard Simulado](Dashboard_azure)
+![Dashboard Simulado](Dashboard_azure.png)
 
 *(Imagem ilustrativa — criada apenas para representar o conceito do projeto.)*
 
