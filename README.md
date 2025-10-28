@@ -1,4 +1,4 @@
-# 💰 Monitoramento de Custos no Azure Data Factory (Projeto Conceitual)
+#  Monitoramento de Custos no Azure Data Factory (Projeto Conceitual)
 
 **Autora:** Letícia Montenegro  
 **Desafio DIO:** Criando um Monitoramento de Custos no Data Factory  
@@ -6,12 +6,12 @@
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Este projeto tem como objetivo demonstrar o entendimento sobre **monitoramento de custos no Azure Data Factory**, explicando como seria feito o processo real de criação, configuração e acompanhamento de custos na nuvem Azure.
 
 ---
 
-## 🧩 Etapas Conceituais do Projeto
+## Etapas Conceituais do Projeto
 
 1. **Criação do Recurso (Data Factory)**  
    - Seria criado no portal Azure com nome: `datafactory-monitoramento`.  
@@ -32,7 +32,7 @@ Este projeto tem como objetivo demonstrar o entendimento sobre **monitoramento d
 
 ---
 
-## 📊 Dashboard Simulado
+##  Dashboard Simulado
 
 O dashboard apresentaria:
 - Custo total por pipeline  
@@ -46,7 +46,7 @@ O dashboard apresentaria:
 
 ---
 
-## 💡 Insights e Aprendizados
+##  Aprendizados
 - Compreendi os componentes do **Azure Data Factory** (Pipelines, Linked Services e Datasets).  
 - Entendi como o **Cost Management** ajuda a visualizar o uso e custo de recursos.  
 - Aprendi a importância de monitorar execução e definir budgets para evitar surpresas financeiras.  
@@ -54,7 +54,7 @@ O dashboard apresentaria:
 
 ---
 
-## 🧠 Conceitos-Chave Aplicados
+## Conceitos-Chave Aplicados
 - Data Orchestration  
 - Monitoramento de custos  
 - Cloud Cost Optimization  
